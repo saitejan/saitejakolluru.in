@@ -1,0 +1,44 @@
+
+h1.a,h1.b,h1.c,h1.d,h1.e,h1.f,h1.g {
+text-align: center;
+color: white;
+}
+h1.a {
+height: 75px;
+background-color:#d4d4d4;
+
+}
+h1.b {
+background-color:pink; 
+}
+h1.c {
+background-color:green; 
+}
+h1.d {
+	height: 75px;
+background-color:blue;
+margin-right: 10px;
+margin-left: 10px; 
+}h1.e {
+	height: 75px;
+background-color:blue; 
+margin-right: 10px;
+margin-left: 10px;
+}h1.f {
+background-color:lightgreen; 
+}h1.g {
+background-color:orange; 
+}
+body {
+	background-color: blue;
+	margin-right: 200px;
+    margin-left: 200px;
+	padding: 35px;
+    
+
+}
+div {
+	background-color: green;
+	height: 250px;
+
+}
